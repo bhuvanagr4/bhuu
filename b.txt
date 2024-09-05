@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 6777
 
 
@@ -8,3 +9,10 @@ ghg
 gfytf
 hgh
 g
+=======
+6777 
+
+
+jhiu
+ji
+>>>>>>> branch-1
